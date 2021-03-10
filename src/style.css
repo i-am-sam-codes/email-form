@@ -46,7 +46,7 @@ form {
     flex-direction: column;
     margin-top: 60px;
    
-    
+
 }
 /* Button styling*/
 button {
@@ -58,6 +58,7 @@ button {
     padding: 5%;
     margin-top: 20px;
 }
+/* Individual form styling */
 
 .email {
     height: 40px;
